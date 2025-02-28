@@ -1,6 +1,4 @@
-# weaponSALES
-<!DOCTYPE HTML>
-
+# Распродажа
 <html>
 
 <head>
@@ -10,7 +8,6 @@
   h1{background-color:blue}
   </style>
 </head>
-<link rel="stylesheet" style.css">
           <h1>Оружие </h1>
 <body>
     <strong>Акция 2 калаша по цене 1го</strong>
